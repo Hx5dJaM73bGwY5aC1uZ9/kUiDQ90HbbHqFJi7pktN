@@ -1,0 +1,10 @@
+﻿  Ng_Spencer_CheckWriter_Class.cpp
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(273): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\visual studio 2015\projects\check writer quiz\quiz\ng_spencer_checkwriter_class.cpp(294): warning C4018: '<': signed/unsigned mismatch
+  Quiz.vcxproj -> C:\Users\ngs\Documents\Visual Studio 2015\Projects\Check Writer Quiz\Debug\Quiz.exe
+  Quiz.vcxproj -> C:\Users\ngs\Documents\Visual Studio 2015\Projects\Check Writer Quiz\Debug\Quiz.pdb (Full PDB)
