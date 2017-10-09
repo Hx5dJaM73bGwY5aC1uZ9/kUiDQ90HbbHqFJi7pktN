@@ -1,4 +1,4 @@
 ﻿  Ng_Spencer_GradeList_Class.cpp
-c:\users\ngs\documents\correcthorsebatterystaple\grade list exam\quiz\ng_spencer_gradelist_class.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ngs\documents\correcthorsebatterystaple\grade list exam\quiz\ng_spencer_gradelist_class.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Grade List Exam\Debug\Quiz.exe
   Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Grade List Exam\Debug\Quiz.pdb (Full PDB)

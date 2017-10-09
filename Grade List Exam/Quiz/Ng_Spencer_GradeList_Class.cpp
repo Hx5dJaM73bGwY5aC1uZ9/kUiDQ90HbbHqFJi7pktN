@@ -13,7 +13,7 @@ class GradeList {
 private:
 	int level;
 	float grade;
-	float gradeList[4][5];
+	int gradeList[4][5];
 public:
 	GradeList();
 	void setLevel(int level);
