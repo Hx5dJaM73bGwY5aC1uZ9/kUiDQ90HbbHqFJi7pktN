@@ -1,0 +1,11 @@
+﻿  Ng_Spencer_Set Intersection.cpp
+Ng_Spencer_Set Intersection.cpp(26): warning C4018: '<': signed/unsigned mismatch
+Ng_Spencer_Set Intersection.cpp(31): warning C4018: '<': signed/unsigned mismatch
+Ng_Spencer_Set Intersection.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 182 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Set Intersection\Release\Quiz.exe
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Set Intersection\Release\Quiz.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  Ng_Spencer_Set Intersection.cpp
+c:\users\ngs\documents\correcthorsebatterystaple\set intersection\quiz\ng_spencer_set intersection.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\correcthorsebatterystaple\set intersection\quiz\ng_spencer_set intersection.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\correcthorsebatterystaple\set intersection\quiz\ng_spencer_set intersection.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Set Intersection\Debug\Quiz.exe
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Set Intersection\Debug\Quiz.pdb (Full PDB)
