@@ -1,0 +1,5 @@
+﻿  Ng_Spencer_Password_Class.cpp
+c:\users\ngs\documents\correcthorsebatterystaple\password class quiz\quiz\ng_spencer_password_class.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\ngs\documents\correcthorsebatterystaple\password class quiz\quiz\ng_spencer_password_class.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Password Class Quiz\Debug\Quiz.exe
+  Quiz.vcxproj -> C:\Users\ngs\Documents\correcthorsebatterystaple\Password Class Quiz\Debug\Quiz.pdb (Full PDB)

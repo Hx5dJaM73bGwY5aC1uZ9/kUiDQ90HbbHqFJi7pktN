@@ -4,6 +4,7 @@
 #include <iostream>
 #include<string>
 #include<vector>
+#include<map>
 #include<algorithm>
 #include <Windows.h>
 #include<stdlib.h>
@@ -42,7 +43,7 @@ void originalMethod() {
 }
 
 void betterMethod() {
-
+	
 }
 
 int main() {
